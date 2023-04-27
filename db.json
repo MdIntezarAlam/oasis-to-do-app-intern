@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Md Intezar alam",
+      "email": "int@gmail.com",
+      "class": "B.Tech",
+      "college": "Chaitanya Institute",
+      "phone": "12345678901",
+      "address": "CDC Boys hostel 506001",
+      "id": 1
+    },
+    {
+      "name": "Rakesh Kumar",
+      "email": "Rakesh@gmail.com",
+      "class": "MCA",
+      "college": "Bharti Institute",
+      "phone": "3234567891",
+      "address": "JDK Road MH 706001",
+      "id": 2
+    },
+    {
+      "name": "Sanjay Kumar",
+      "email": "sanjay@gmail.com",
+      "class": "MBA",
+      "phone": "2345678901",
+      "address": "Warangal Telangana, HNK 506002",
+      "college": "DAB College APS Mumbai",
+      "id": 3
+    },
+    {
+      "name": "Rakesh harma",
+      "email": "rakesh@gmail.com",
+      "class": "B.Tech",
+      "phone": "2345678901",
+      "address": "HYD CSNC Road 500023  Metro Line",
+      "college": "JNU University",
+      "id": 4
+    }
+  ]
+}
